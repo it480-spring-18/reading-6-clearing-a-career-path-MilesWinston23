@@ -14,7 +14,12 @@ Questions
 ---------
 
 1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) **Answer:**
+
+Softare testing is seen as a undesirable or low-tier career choice. Being a software engineer, analyst, or architect is seem as a more prestigious role. Software testers are seen as failed programmers to some. 
+
 1. What are the stages in their proposed career path for testers? **Answer:**
+
+Proposals for their career path are Softare tester -> Software test engineer -> Software test specialist(Many specializations) -> Lead test specialist -> Enterprise software test engineer.
 
 Prerequisites
 -------------
